@@ -1,5 +1,7 @@
 # Imnavait Creek Permafrost and Active Layer Soil Microbial Communities
 
+[![DOI](https://zenodo.org/badge/620399348.svg)](https://zenodo.org/badge/latestdoi/620399348)
+
 This repo contains code, data and partial output relating to the article:
 
 BAKER, Christopher C.M.,  Amanda J. BARKER, Thomas A. DOUGLAS, Stacey J. DOHERTY and Robyn A. BARBATO. Seasonal variation in near-surface seasonally thawed active layer and permafrost soil microbial communities. **Environmental Research Letters** (Accepted). [doi:10.1088/1748-9326/acc542](https://doi.org/10.1088/1748-9326/acc542)
