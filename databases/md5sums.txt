@@ -1,0 +1,10 @@
+# md5 checksums for sequence databases
+silva_nr99_v138.1_train_set.fa.gz: 6b41db7139834c71171f8ce5b5918fc6
+# silva_nr99_v138.1_wSpecies_train_set.fa.gz: ba13ab369161e0cb85df7e0ee3a4182e
+silva_species_assignment_v138.1.fa.gz: f21c2d97c79ff07c17949a9622371a4c
+SILVA_SSU_r138_2019.RData: cb983b6a5e8cdb46f8c88b5afae21f66
+rdp_train_set_18.fa.gz: 693c1ade0caf223e1fb7c6cf4da6f272
+rdp_species_assignment_18.fa.gz: 1a465122bdf670a74eb8873de042bad6
+6AF94919CCB48307734D6256CACA50AE1ECBC0839F644D4B661E3673525E41A4.tgz: 51ffc4ab953c2036f72ac5b6cd06f168
+
+

@@ -1,0 +1,24 @@
+element,detection_limit,reporting_limit,units
+Iron,0.0200,0.0400,mg/L
+Aluminum-27 [2],0.0004,0.0020,mg/L
+Antimony-121 [1],0.0004,0.0020,mg/L
+Arsenic-75 [3],0.0004,0.0020,mg/L
+Barium-135 [1],0.0004,0.0020,mg/L
+Cadmium-111 [1],0.0004,0.0020,mg/L
+Chromium-53 [2],0.0004,0.0020,mg/L
+Cobalt-59 [2],0.0004,0.0020,mg/L
+Rubidium,0.0004,0.0020,mg/L
+Copper-63 [2],0.0004,0.0020,mg/L
+Lead-206 [1],0.0004,0.0020,mg/L
+Manganese-55 [2],0.0004,0.0020,mg/L
+Molybdenum-97 [1],0.0004,0.0020,mg/L
+Nickel-60 [2],0.0004,0.0020,mg/L
+Selenium-82 [1],0.0004,0.0020,mg/L
+Strontium-86 [1],0.0004,0.0020,mg/L
+Thallium-205 [1],0.0004,0.0020,mg/L
+Tin-118 [1],0.0004,0.0020,mg/L
+Titanium-47 [2],0.0004,0.0020,mg/L
+Vanadium-51 [2],0.0004,0.0020,mg/L
+Zinc-68 [3],0.0004,0.0020,mg/L
+Gold,0.0002,0.0005,mg/L
+Mercury,0.00002,0.00004,mg/L

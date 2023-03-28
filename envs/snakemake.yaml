@@ -1,0 +1,6 @@
+name: snakemake-6.4.1
+channels:
+ - bioconda
+ - conda-forge
+dependencies:
+ - snakemake=6.4.1

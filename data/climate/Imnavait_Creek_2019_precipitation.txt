@@ -1,0 +1,23 @@
+# Imnaviat Creek (968) 
+# Alaska SNOTEL Site - 3050 ft
+# Reporting Frequency: Monthly; Date Range: Jan 2019 to Dec 2019 
+# Source: https://wcc.sc.egov.usda.gov/reportGenerator/view/customMultiTimeSeriesGroupByStationReport,metric/monthly/end_of_period/968:AK:SNTL%7Cid=%22%22%7Cname/2019-01-01,2019-12-31/PRCP::value,PREC::value,SNWD::value:daily%20MEAN?fitToScreen=false&sortBy=0:1
+# (As of: Wed Aug 10 10:50:49 GMT-08:00 2022)
+# **Provisional data, subject to revision** 
+# 
+# Precipitation_Increment_mm = total precipitation over the calendar month, in mm
+# Precipitation_Accumulation_mm = total precipitation from the start of the water year (October 1) to the last day of the calendar month, in mm
+# Snow_Depth_cm = mean of daily snow depth values over the month, in cm
+Month	Year	Precipitation_Increment_mm	Precipitation_Accumulation_mm	Snow_Depth_cm
+Jan	2019	8	56	36
+Feb	2019	5	61	40
+Mar	2019	18	79	39
+Apr	2019	5	84	53
+May	2019	5	89	24
+Jun	2019	69	157	0
+Jul	2019	99	257	0
+Aug	2019	155	411	0
+Sep	2019	20	432	4
+Oct	2019	15	15	33
+Nov	2019	13	28	34
+Dec	2019	5	33	34

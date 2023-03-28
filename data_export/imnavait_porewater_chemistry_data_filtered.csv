@@ -1,0 +1,277 @@
+Month,Depth_range,element,element_symbol,concentration
+June,0-20,Iron,Fe,0.794
+June,0-20,Aluminum-27 [2],Al,0.976
+June,0-20,Antimony-121 [1],Sb,ND
+June,0-20,Arsenic-75 [3],As,0.0047
+June,0-20,Barium-135 [1],Ba,0.240
+June,0-20,Cadmium-111 [1],Cd,ND
+June,0-20,Chromium-53 [2],Cr,0.0077
+June,0-20,Cobalt-59 [2],Co,ND
+June,0-20,Rubidium,Rb,ND
+June,0-20,Copper-63 [2],Cu,0.0189
+June,0-20,Lead-206 [1],Pb,ND
+June,0-20,Manganese-55 [2],Mn,0.0893
+June,0-20,Molybdenum-97 [1],Mo,ND
+June,0-20,Nickel-60 [2],Ni,0.0054
+June,0-20,Selenium-82 [1],Se,ND
+June,0-20,Strontium-86 [1],Sr,0.0138
+June,0-20,Thallium-205 [1],Tl,ND
+June,0-20,Tin-118 [1],Sn,ND
+June,0-20,Titanium-47 [2],Ti,0.0032
+June,0-20,Vanadium-51 [2],V,0.0125
+June,0-20,Zinc-68 [3],Zn,0.0469
+June,0-20,Gold,Au,ND
+June,0-20,Mercury,Hg,0.000173
+June,60-80,Iron,Fe,3.22
+June,60-80,Aluminum-27 [2],Al,0.750
+June,60-80,Antimony-121 [1],Sb,0.00066
+June,60-80,Arsenic-75 [3],As,0.0212
+June,60-80,Barium-135 [1],Ba,0.0632
+June,60-80,Cadmium-111 [1],Cd,ND
+June,60-80,Chromium-53 [2],Cr,0.0093
+June,60-80,Cobalt-59 [2],Co,0.0023
+June,60-80,Rubidium,Rb,0.0013
+June,60-80,Copper-63 [2],Cu,0.0071
+June,60-80,Lead-206 [1],Pb,ND
+June,60-80,Manganese-55 [2],Mn,0.133
+June,60-80,Molybdenum-97 [1],Mo,ND
+June,60-80,Nickel-60 [2],Ni,0.0077
+June,60-80,Selenium-82 [1],Se,ND
+June,60-80,Strontium-86 [1],Sr,0.0068
+June,60-80,Thallium-205 [1],Tl,ND
+June,60-80,Tin-118 [1],Sn,ND
+June,60-80,Titanium-47 [2],Ti,0.0064
+June,60-80,Vanadium-51 [2],V,0.0078
+June,60-80,Zinc-68 [3],Zn,0.0235
+June,60-80,Gold,Au,ND
+June,60-80,Mercury,Hg,ND
+June,80-100,Iron,Fe,1.94
+June,80-100,Aluminum-27 [2],Al,1.37
+June,80-100,Antimony-121 [1],Sb,0.0006
+June,80-100,Arsenic-75 [3],As,0.0126
+June,80-100,Barium-135 [1],Ba,0.0669
+June,80-100,Cadmium-111 [1],Cd,ND
+June,80-100,Chromium-53 [2],Cr,0.0203
+June,80-100,Cobalt-59 [2],Co,0.0019
+June,80-100,Rubidium,Rb,0.0011
+June,80-100,Copper-63 [2],Cu,0.0094
+June,80-100,Lead-206 [1],Pb,0.0020
+June,80-100,Manganese-55 [2],Mn,0.0828
+June,80-100,Molybdenum-97 [1],Mo,ND
+June,80-100,Nickel-60 [2],Ni,0.0072
+June,80-100,Selenium-82 [1],Se,0.0005
+June,80-100,Strontium-86 [1],Sr,0.0055
+June,80-100,Thallium-205 [1],Tl,ND
+June,80-100,Tin-118 [1],Sn,ND
+June,80-100,Titanium-47 [2],Ti,0.0096
+June,80-100,Vanadium-51 [2],V,0.0084
+June,80-100,Zinc-68 [3],Zn,0.0222
+June,80-100,Gold,Au,ND
+June,80-100,Mercury,Hg,0.000027
+August,0-20,Iron,Fe,0.617
+August,0-20,Aluminum-27 [2],Al,0.965
+August,0-20,Antimony-121 [1],Sb,ND
+August,0-20,Arsenic-75 [3],As,0.0244
+August,0-20,Barium-135 [1],Ba,0.206
+August,0-20,Cadmium-111 [1],Cd,ND
+August,0-20,Chromium-53 [2],Cr,0.171
+August,0-20,Cobalt-59 [2],Co,0.0030
+August,0-20,Rubidium,Rb,ND
+August,0-20,Copper-63 [2],Cu,0.0128
+August,0-20,Lead-206 [1],Pb,ND
+August,0-20,Manganese-55 [2],Mn,0.0909
+August,0-20,Molybdenum-97 [1],Mo,ND
+August,0-20,Nickel-60 [2],Ni,0.0056
+August,0-20,Selenium-82 [1],Se,ND
+August,0-20,Strontium-86 [1],Sr,0.0106
+August,0-20,Thallium-205 [1],Tl,ND
+August,0-20,Tin-118 [1],Sn,ND
+August,0-20,Titanium-47 [2],Ti,0.0108
+August,0-20,Vanadium-51 [2],V,0.0573
+August,0-20,Zinc-68 [3],Zn,0.0770
+August,0-20,Gold,Au,ND
+August,0-20,Mercury,Hg,0.00007
+August,40-60,Iron,Fe,4.94
+August,40-60,Aluminum-27 [2],Al,1.39
+August,40-60,Antimony-121 [1],Sb,ND
+August,40-60,Arsenic-75 [3],As,0.0496
+August,40-60,Barium-135 [1],Ba,0.184
+August,40-60,Cadmium-111 [1],Cd,ND
+August,40-60,Chromium-53 [2],Cr,0.100
+August,40-60,Cobalt-59 [2],Co,0.0041
+August,40-60,Rubidium,Rb,ND
+August,40-60,Copper-63 [2],Cu,0.0186
+August,40-60,Lead-206 [1],Pb,0.0026
+August,40-60,Manganese-55 [2],Mn,0.129
+August,40-60,Molybdenum-97 [1],Mo,ND
+August,40-60,Nickel-60 [2],Ni,0.0137
+August,40-60,Selenium-82 [1],Se,ND
+August,40-60,Strontium-86 [1],Sr,0.0105
+August,40-60,Thallium-205 [1],Tl,ND
+August,40-60,Tin-118 [1],Sn,ND
+August,40-60,Titanium-47 [2],Ti,0.0191
+August,40-60,Vanadium-51 [2],V,0.0387
+August,40-60,Zinc-68 [3],Zn,0.0404
+August,40-60,Gold,Au,ND
+August,40-60,Mercury,Hg,0.000042
+August,60-80,Iron,Fe,4.66
+August,60-80,Aluminum-27 [2],Al,1.86
+August,60-80,Antimony-121 [1],Sb,0.0007
+August,60-80,Arsenic-75 [3],As,0.0737
+August,60-80,Barium-135 [1],Ba,0.114
+August,60-80,Cadmium-111 [1],Cd,ND
+August,60-80,Chromium-53 [2],Cr,0.137
+August,60-80,Cobalt-59 [2],Co,0.0034
+August,60-80,Rubidium,Rb,0.0013
+August,60-80,Copper-63 [2],Cu,0.0093
+August,60-80,Lead-206 [1],Pb,0.0005
+August,60-80,Manganese-55 [2],Mn,0.183
+August,60-80,Molybdenum-97 [1],Mo,ND
+August,60-80,Nickel-60 [2],Ni,0.0126
+August,60-80,Selenium-82 [1],Se,ND
+August,60-80,Strontium-86 [1],Sr,0.0083
+August,60-80,Thallium-205 [1],Tl,ND
+August,60-80,Tin-118 [1],Sn,ND
+August,60-80,Titanium-47 [2],Ti,0.0174
+August,60-80,Vanadium-51 [2],V,0.0513
+August,60-80,Zinc-68 [3],Zn,0.0259
+August,60-80,Gold,Au,ND
+August,60-80,Mercury,Hg,0.000047
+August,80-100,Iron,Fe,2.59
+August,80-100,Aluminum-27 [2],Al,1.10
+August,80-100,Antimony-121 [1],Sb,ND
+August,80-100,Arsenic-75 [3],As,0.0188
+August,80-100,Barium-135 [1],Ba,0.135
+August,80-100,Cadmium-111 [1],Cd,ND
+August,80-100,Chromium-53 [2],Cr,0.0317
+August,80-100,Cobalt-59 [2],Co,0.0022
+August,80-100,Rubidium,Rb,ND
+August,80-100,Copper-63 [2],Cu,0.0073
+August,80-100,Lead-206 [1],Pb,ND
+August,80-100,Manganese-55 [2],Mn,0.133
+August,80-100,Molybdenum-97 [1],Mo,ND
+August,80-100,Nickel-60 [2],Ni,0.0077
+August,80-100,Selenium-82 [1],Se,ND
+August,80-100,Strontium-86 [1],Sr,0.0072
+August,80-100,Thallium-205 [1],Tl,ND
+August,80-100,Tin-118 [1],Sn,ND
+August,80-100,Titanium-47 [2],Ti,0.0074
+August,80-100,Vanadium-51 [2],V,0.0141
+August,80-100,Zinc-68 [3],Zn,0.0266
+August,80-100,Gold,Au,ND
+August,80-100,Mercury,Hg,0.000049
+October,0-20,Iron,Fe,4.94
+October,0-20,Aluminum-27 [2],Al,1.40
+October,0-20,Antimony-121 [1],Sb,ND
+October,0-20,Arsenic-75 [3],As,0.0101
+October,0-20,Barium-135 [1],Ba,0.0869
+October,0-20,Cadmium-111 [1],Cd,ND
+October,0-20,Chromium-53 [2],Cr,0.0436
+October,0-20,Cobalt-59 [2],Co,0.0108
+October,0-20,Rubidium,Rb,0.0152
+October,0-20,Copper-63 [2],Cu,0.0167
+October,0-20,Lead-206 [1],Pb,ND
+October,0-20,Manganese-55 [2],Mn,0.577
+October,0-20,Molybdenum-97 [1],Mo,0.0006
+October,0-20,Nickel-60 [2],Ni,0.0139
+October,0-20,Selenium-82 [1],Se,ND
+October,0-20,Strontium-86 [1],Sr,0.0090
+October,0-20,Thallium-205 [1],Tl,ND
+October,0-20,Tin-118 [1],Sn,ND
+October,0-20,Titanium-47 [2],Ti,0.0045
+October,0-20,Vanadium-51 [2],V,0.0130
+October,0-20,Zinc-68 [3],Zn,0.0692
+October,0-20,Gold,Au,ND
+October,0-20,Mercury,Hg,0.000069
+October,20-40,Iron,Fe,0.509
+October,20-40,Aluminum-27 [2],Al,0.485
+October,20-40,Antimony-121 [1],Sb,0.0005
+October,20-40,Arsenic-75 [3],As,0.0084
+October,20-40,Barium-135 [1],Ba,0.0898
+October,20-40,Cadmium-111 [1],Cd,ND
+October,20-40,Chromium-53 [2],Cr,0.0477
+October,20-40,Cobalt-59 [2],Co,0.0026
+October,20-40,Rubidium,Rb,ND
+October,20-40,Copper-63 [2],Cu,0.0114
+October,20-40,Lead-206 [1],Pb,ND
+October,20-40,Manganese-55 [2],Mn,0.106
+October,20-40,Molybdenum-97 [1],Mo,ND
+October,20-40,Nickel-60 [2],Ni,0.0051
+October,20-40,Selenium-82 [1],Se,ND
+October,20-40,Strontium-86 [1],Sr,0.0066
+October,20-40,Thallium-205 [1],Tl,ND
+October,20-40,Tin-118 [1],Sn,ND
+October,20-40,Titanium-47 [2],Ti,0.0048
+October,20-40,Vanadium-51 [2],V,0.0180
+October,20-40,Zinc-68 [3],Zn,0.0809
+October,20-40,Gold,Au,ND
+October,20-40,Mercury,Hg,0.000255
+October,40-60,Iron,Fe,5.02
+October,40-60,Aluminum-27 [2],Al,1.08
+October,40-60,Antimony-121 [1],Sb,ND
+October,40-60,Arsenic-75 [3],As,0.0418
+October,40-60,Barium-135 [1],Ba,0.308
+October,40-60,Cadmium-111 [1],Cd,ND
+October,40-60,Chromium-53 [2],Cr,0.0643
+October,40-60,Cobalt-59 [2],Co,0.0057
+October,40-60,Rubidium,Rb,0.0025
+October,40-60,Copper-63 [2],Cu,0.0134
+October,40-60,Lead-206 [1],Pb,ND
+October,40-60,Manganese-55 [2],Mn,0.231
+October,40-60,Molybdenum-97 [1],Mo,ND
+October,40-60,Nickel-60 [2],Ni,0.0134
+October,40-60,Selenium-82 [1],Se,ND
+October,40-60,Strontium-86 [1],Sr,0.0195
+October,40-60,Thallium-205 [1],Tl,ND
+October,40-60,Tin-118 [1],Sn,ND
+October,40-60,Titanium-47 [2],Ti,0.0101
+October,40-60,Vanadium-51 [2],V,0.0264
+October,40-60,Zinc-68 [3],Zn,0.0783
+October,40-60,Gold,Au,ND
+October,40-60,Mercury,Hg,0.000074
+October,60-80,Iron,Fe,3.36
+October,60-80,Aluminum-27 [2],Al,2.73
+October,60-80,Antimony-121 [1],Sb,0.0008
+October,60-80,Arsenic-75 [3],As,0.0240
+October,60-80,Barium-135 [1],Ba,0.143
+October,60-80,Cadmium-111 [1],Cd,ND
+October,60-80,Chromium-53 [2],Cr,0.0153
+October,60-80,Cobalt-59 [2],Co,0.0045
+October,60-80,Rubidium,Rb,0.0042
+October,60-80,Copper-63 [2],Cu,0.0109
+October,60-80,Lead-206 [1],Pb,0.0008
+October,60-80,Manganese-55 [2],Mn,0.332
+October,60-80,Molybdenum-97 [1],Mo,ND
+October,60-80,Nickel-60 [2],Ni,0.0118
+October,60-80,Selenium-82 [1],Se,0.0004
+October,60-80,Strontium-86 [1],Sr,0.0135
+October,60-80,Thallium-205 [1],Tl,ND
+October,60-80,Tin-118 [1],Sn,ND
+October,60-80,Titanium-47 [2],Ti,0.0297
+October,60-80,Vanadium-51 [2],V,0.0103
+October,60-80,Zinc-68 [3],Zn,0.0502
+October,60-80,Gold,Au,ND
+October,60-80,Mercury,Hg,0.000022
+October,80-100,Iron,Fe,17.9
+October,80-100,Aluminum-27 [2],Al,51.6
+October,80-100,Antimony-121 [1],Sb,0.0012
+October,80-100,Arsenic-75 [3],As,0.0205
+October,80-100,Barium-135 [1],Ba,0.581
+October,80-100,Cadmium-111 [1],Cd,ND
+October,80-100,Chromium-53 [2],Cr,0.0790
+October,80-100,Cobalt-59 [2],Co,0.0117
+October,80-100,Rubidium,Rb,0.0564
+October,80-100,Copper-63 [2],Cu,0.0320
+October,80-100,Lead-206 [1],Pb,0.0061
+October,80-100,Manganese-55 [2],Mn,0.549
+October,80-100,Molybdenum-97 [1],Mo,0.0008
+October,80-100,Nickel-60 [2],Ni,0.0393
+October,80-100,Selenium-82 [1],Se,0.0004
+October,80-100,Strontium-86 [1],Sr,0.0249
+October,80-100,Thallium-205 [1],Tl,0.0005
+October,80-100,Tin-118 [1],Sn,0.0011
+October,80-100,Titanium-47 [2],Ti,0.472
+October,80-100,Vanadium-51 [2],V,0.115
+October,80-100,Zinc-68 [3],Zn,0.113
+October,80-100,Gold,Au,0.0002
+October,80-100,Mercury,Hg,0.000061
